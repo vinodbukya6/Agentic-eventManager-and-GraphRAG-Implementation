@@ -1,0 +1,52 @@
+Here are several diverse event prompts that you can use to test your multi-agent Event Management system:
+
+---
+
+### 🎉 Corporate / Professional Events
+
+1. Corporate conference in Hyderabad for 300 guests in October. Needs include buffet, speakers, lighting, and audio setup.**
+2. Product launch in Bangalore for 200 attendees with stage, media coverage, dinner, and live band.
+3. Annual general meeting in Mumbai for 500 employees. Requires projector, refreshments, and name tags.
+4. Tech seminar in Delhi for 150 professionals. Needs include AV support, podium, lunch, and breakout rooms.
+5. Startup networking event in Chennai, informal style for 100 guests with snacks, open mic, and banner display.
+
+---
+
+### 🎊 Weddings & Receptions
+
+6. Traditional wedding in Hyderabad for 400 guests. Needs include vegetarian catering, mandap setup, floral decoration, and live music.
+7. Beachside wedding in Chennai for 150 guests with evening lighting, seafood buffet, and DJ.
+8. Wedding reception in Delhi for 250 guests. Includes photography, stage, and a cocktail counter.
+
+---
+
+### 🧒 Birthday / Personal Celebrations
+
+9. 1st birthday party for 80 guests. Needs include theme decor, magician, snacks, and photo booth.
+10. 60th birthday in Mumbai for 120 guests. Requires seated dinner, projector for family video, and return gifts.
+11. Outdoor garden party in Chennai for a child’s 5th birthday with clowns, pony rides, and cupcakes.
+
+---
+
+### 🎓 Academic / College Events
+
+12. College graduation ceremony in Delhi for 1000 students and guests. Needs include stage, chairs, lighting, and food stalls.
+13. Inter-college hackathon in Bangalore for 300 participants with overnight stay, snacks, AV, and breakout rooms.
+
+---
+
+### 🧘‍♀️ Cultural / Wellness Events
+
+14. Yoga retreat in Hyderabad for 60 people with outdoor space, vegan meals, mats, and calming music.
+15. Classical music night in Chennai for 200 guests with stage seating, lights, and VIP seating.
+
+---
+
+### 🎡 Festivals / Community Events
+
+16. Diwali mela in Mumbai for 800 attendees. Includes food stalls, diya decoration, stage performances, and games.
+17. Christmas charity fundraiser in Delhi for 150 guests with Santa booth, choir, dinner, and auction stage.
+
+---
+
+Would you like me to generate a CSV or JSON file with these prompts for automated testing or UI dropdowns?

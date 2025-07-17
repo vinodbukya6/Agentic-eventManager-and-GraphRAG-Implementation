@@ -1,0 +1,9 @@
+# variables
+CHUNK_SIZE = 600
+CHUNK_OVERLAP = 100
+MAX_CHUNKS = 30
+
+OPENAI_MODEL = "gpt-3.5-turbo"
+TEMPERATURE = 0
+
+DOCUMENTS_PATH = "./data/"

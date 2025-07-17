@@ -1,0 +1,12 @@
+# activate virtual environment
+# source /Users/bukya/Downloads/ProjectsExps/Assignments/Kaara/eventManager/agentic_ai/bin/activate
+
+# install these packages using pip3 install -r requirements.txt
+langchain
+openai
+networkx
+python-louvain
+pandas
+python-dotenv
+pypdf
+
