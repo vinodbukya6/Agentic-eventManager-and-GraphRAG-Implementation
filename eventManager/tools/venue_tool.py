@@ -1,5 +1,4 @@
-# tools/venue_tool.py
-
+# imports 
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import OpenAIEmbeddings
 from langchain_community.document_loaders import CSVLoader

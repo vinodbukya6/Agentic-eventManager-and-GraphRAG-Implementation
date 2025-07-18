@@ -1,5 +1,4 @@
-# tools/budget_tool.py
-
+# import packages
 from langchain_community.chat_models import ChatOpenAI
 from langchain.chains import LLMChain
 from langchain.prompts import PromptTemplate

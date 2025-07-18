@@ -1,5 +1,4 @@
-# agents/vendor_manager.py
-
+# import from tools
 from tools.vendor_tool import get_vendor_tool
 
 vendor_tool = get_vendor_tool()

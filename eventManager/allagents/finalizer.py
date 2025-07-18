@@ -1,5 +1,4 @@
-# agents/finalizer.py
-
+# Import packages
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
 from langchain_community.chat_models import ChatOpenAI

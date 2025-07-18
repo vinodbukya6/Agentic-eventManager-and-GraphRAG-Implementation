@@ -1,5 +1,4 @@
-# agents/budget_analyst.py
-
+# import from tools
 from tools.budget_tool import get_budget_tool
 
 budget_tool = get_budget_tool()
